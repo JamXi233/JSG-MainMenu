@@ -1,0 +1,22 @@
+---------------------------------
+        JSG Storage Group
+          Server Status
+---------------------------------
+        JSG Storage Group
+           服务器状态
+---------------------------------
+JSG-Main	正在运行
+JSG-Update	已停用
+JSG-论坛	已停用
+JSG-资源站	已停用
+JSG-交换中心	已停用
+JSG-PrDisk	已停用
+JSG-NC		已停用
+JSG-Mirror	已停用
+
+
+公告:
+由于某些原因 JSG服务全线停用
+将于5月1日重新启动.
+
+
